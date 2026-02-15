@@ -98,3 +98,28 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# Additional recommended ignores
+
+# IDE
+.vscode/
+.idea/
+*.sln.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity cache/artifacts
+/[Aa]rtifacts/
+/[Ll]ibrary/Il2cppBuildCache/
+
+# Crash dumps
+*.stackdump
+*.dmp
+*.trace
+
+# Android build cache
+/[Bb]uild/[Aa]ndroid/
+/[Bb]uilds/[Aa]ndroid/
